@@ -10,7 +10,7 @@ with open(model_path, 'rb') as file:
 
 
 # UI Layout
-st.title("Loan Status Prediction System using ML")
+st.title("Loan Status Prediction System")
 st.markdown("This app predicts whether a loan application will be approved or not based on the provided details.")
 
 # Input fields for user data
